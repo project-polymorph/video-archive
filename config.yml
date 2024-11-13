@@ -1,0 +1,21 @@
+name: 音频影像
+description: 本目录收录了与跨性别相关的音频影像作品，包括艺术中心与国际美术馆合作的项目。这些作品展示了跨性别艺术家的创作，反映了其独特的视角和经历。
+curator: ''
+source: ''
+tags:
+- 跨性别艺术
+- 音频影像
+- 创作表达
+- 金杜艺术中心
+- 伦敦白教堂美术馆
+license: ''
+files:
+- name: PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI
+  filename: PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI.pdf
+  type: document
+  format: PDF Document
+  size: 155231
+  md5: 8a36718491d2cf5154757c137db53b8f
+  page: PDF_金杜艺术中心x_伦敦白教堂美术馆国际艺术家电影AFI_page.md
+subdirs:
+- 限制级内容
