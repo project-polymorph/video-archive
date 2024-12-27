@@ -1,7 +1,7 @@
 # 2021年Bubble_T亚裔酷儿派对报道
 
 <!-- tcd_download_link -->
-Download: [2021年Bubble_T亚裔酷儿派对报道.pdf](2021年Bubble_T亚裔酷儿派对报道.pdf)
+下载: [2021年Bubble_T亚裔酷儿派对报道.pdf](2021年Bubble_T亚裔酷儿派对报道.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -21,7 +21,7 @@ Download: [2021年Bubble_T亚裔酷儿派对报道.pdf](2021年Bubble_T亚裔酷
 | Size            | 2199995 bytes                           |
 | MD5             | e97a6830e70e550b56f10825bac6fe6c                                  |
 | Archived Date   | 2024-11-23 03:44:10                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [https://files.catbox.moe/h4hvig.pdf](https://files.catbox.moe/h4hvig.pdf)                         |
 | Author          | 林知阳                               |
 | Region          | 美国                               |
 | Date            | 2021-03-28                                 |
