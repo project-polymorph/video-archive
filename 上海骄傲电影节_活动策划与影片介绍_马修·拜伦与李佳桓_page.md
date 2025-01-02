@@ -11,7 +11,7 @@
 
 <!-- tcd_abstract_end -->
 
-## 其他信息
+## 其他信息 [Processed Page Metadata]
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
@@ -28,3 +28,13 @@
 | Tags            | 上海骄傲电影节, 酷儿家庭, LGBTQ, 电影放映, 活动策划, 跨性别, 多元性别, 文化活动, 社会环境记录                                 |
 
 本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+
+
+## 正文 { data-search-exclude }
+
+<!-- tcd_main_text -->
+<iframe src="../上海骄傲电影节_活动策划与影片介绍_马修·拜伦与李佳桓.pdf" width="100%" height="600px">
+    <p>无法显示PDF，请下载查看。</p>
+</iframe>
+<!-- tcd_main_text_end -->
+
